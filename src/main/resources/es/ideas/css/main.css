@@ -1,0 +1,19 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 17 ene 2022, 20:09:20
+    Author     : deymian
+*/
+
+.toggle-button{
+    -fx-content-display: graphic-only;
+    -fx-background-radius: 50%;
+}
+
+.label{
+    -fx-font-family: "Sarai";
+    -fx-font-size: 4em;
+        
+}
